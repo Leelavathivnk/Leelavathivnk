@@ -1,0 +1,97 @@
+order_id,order_date,order_status,customer_id,customer_name,email,city,product_id,product_name,category,quantity,unit_price,order_amount
+ORD0001,2026-08-02,Shipped,1036,Nisha Kumar,nisha.kumar36@example.com,Bengaluru,PR099,Pen Set Model 5,Stationery,5.0,7541.59,6973.75
+ORD0002,2026-07-01,Pending,1010,Ananya Gupta,ananya.gupta10@example.com,Delhi,PR092,Monitor Model 5,Electronics,3.0,8930.0,8495.81
+ORD0003,2026-06-20,Shipped,1070,Sana Pillai,sana.pillai70@example.com,Kochi,PR011,Notebook Set,Stationery,2.0,1980.78,9668.43
+ORD0004,2026-06-09,Cancelled,1020,Ravi Joseph,ravi.joseph20@example.com,Chennai,PR091,Notebook Set Model 5,Stationery,2.0,8167.56,10278.84
+ORD0005,2026-06-08,Shipped,1070,Sana Pillai,sana.pillai70@example.com,Kochi,PR060,Travel Mug Model 3,Lifestyle,4.0,1557.8,20847.35
+ORD0006,2026-08-29,Delivered,1050,Nila Singh,nila.singh50@example.com,Pune,PR099,Pen Set Model 5,Stationery,5.0,7541.59,21439.79
+ORD0007,2026-08-01,Delivered,1098,Karthik Rao,karthik.rao98@example.com,Delhi,PR074,Mouse Model 4,Electronics,4.0,8617.36,23577.13
+ORD0008,2026-09-18,Cancelled,1039,  Meena Bose ,meena.bose39@example.com,Hyderabad,PR097,Power Bank Model 5,Electronics,4.0,8627.8,13524.78
+ORD0009,2026-09-23,Shipped,1095,Karthik Shankar,karthik.shankar95@example.com,KOLKATA,PR070,Bluetooth Speaker Model 4, electronics ,5.0,4055.56,12282.5
+ORD0010,2026-06-04,Cancelled,1035,Ananya Raj,ananya.raj35@example.com,Chennai,PR056,Table Fan Model 3, home ,4.0,9523.8,8502.82
+ORD0011,2026-09-16,Cancelled,1087,Priya Bose,priya.bose87@example.com,Chennai,PR052,Monitor Model 3,Electronics,2.0,2908.49,23000.61
+ORD0012,2026-09-25,Cancelled,1080,Arun Bose,arun.bose80@example.com,Hyderabad,PR069,Water Bottle Model 4,Lifestyle,1.0,3900.39,14858.54
+ORD0013,2026-08-22,Cancelled,1085,Vikram Raj,vikram.raj85@example.com,,PR004,Office Chair,Furniture,1.0,6005.06,3522.13
+ORD0014,2026-07-04,Cancelled,1060,Sara Verma,sara.verma60@example.com,Chennai,PR024,Office Chair Model 2,Furniture,1.0,6666.54,8284.71
+ORD0015,2026-09-06, cancelled ,1059,Kavin Patel,kavin.patel59@example.com,Kolkata,PR042,Keyboard Model 3, electronics ,3.0,7878.01,7064.68
+ORD0016,2026-07-31,Delivered,1054,Arun Joseph,arun.joseph54@example.com,Mumbai,PR033,Backpack Model 2,Lifestyle,,6681.8,18763.25
+ORD0017,2026-08-23,Delivered,1007,Kavin Patel,kavin.patel7@example.com,Kochi,PR045,USB-C Cable Model 3,Accessories,2.0,4472.68,19563.64
+ORD0018,not known,Shipped,1084,Ravi Kumar,ravi.kumar84@example.com,Kochi,PR006,Webcam,Electronics,1.0,7884.64,21004.84
+ORD0019,2026-06-17,Cancelled,1080,Arun Bose,arun.bose80@example.com,Hyderabad,PR020,Travel Mug,Lifestyle,2.0,4368.84,16786.05
+ORD0020,2026-08-29,Pending,9999,,,,PR028,Laptop Stand Model 2, accessories ,4.0,6701.24,19207.42
+ORD0021,2026-09-04,Delivered,1022,Deepak Rao,DEEPAK.RAO22@EXAMPLE.COM ,Mumbai,PR078,Study Table Model 4,Furniture,0.0,8059.69,19478.13
+ORD0022,2026-08-14,,1021,Karthik Iyer,karthik.iyer21@example.com,Bengaluru,PR040,Travel Mug Model 2,Lifestyle,1.0,3107.36,23232.85
+ORD0023,2026-07-21,Shipped,1074,Pooja Pillai,pooja.pillai74@example.com,Bengaluru,PR087,Desk Lamp Model 5,Home,4.0,not available,2038.51
+ORD0025,2026-09-09,Delivered,1077,Divya Raj,DIVYA.RAJ77@EXAMPLE.COM ,Kolkata,PR016,Table Fan,Home,5.0,6898.89,N/A
+ORD0026,2026-06-09,Pending,1055,Isha Reddy,ISHA.REDDY55@EXAMPLE.COM ,Hyderabad,PR085,USB-C Cable Model 5,Accessories,3.0,4698.97,464.41
+ORD0027,2026-07-26,Pending,1054,Arun Joseph,arun.joseph54@example.com,Mumbai,PR063,Smart Watch Model 4,Electronics,-2.0,6150.61,15944.29
+ORD0028,2026-07-26,Shipped,1059,Kavin Patel,kavin.patel59@example.com,Kolkata,PR091,Notebook Set Model 5,Stationery,2.0,8167.56,18384.81
+ORD0029,2026-09-12,Cancelled,1084,Ravi Kumar,ravi.kumar84@example.com,Kochi,PR035,Phone Case Model 2,Accessories,5.0,7505.53,11702.11
+ORD0030,2026-07-12, shipped ,1094,Nila Iyer,nila.iyer94@example.com,Hyderabad,PR076,Table Fan Model 4,Home,3.0,7805.36,20793.67
+ORD0031,2026-07-02,Cancelled,1012,Meena Bose,meena.bose12@example.com,Delhi,PR036,Table Fan Model 2,Home,4.0,1821.87,14310.76
+ORD0032,2026-06-04,Cancelled,1086,Isha Kumar,isha.kumar86@example.com,Bengaluru,PR049,Water Bottle Model 3,Lifestyle,,9601.34,-500
+ORD0033,2026-07-16,Pending,1024,Priya Joseph,priya.joseph24@example.com,Delhi,PR063,Smart Watch Model 4,Electronics,2.0,6150.61,8607.42
+ORD0034,2026-08-11,Delivered,1077,Divya Raj,DIVYA.RAJ77@EXAMPLE.COM ,Kolkata,PR090,Bluetooth Speaker Model 5,Electronics,3.0,4480.48,12988.19
+ORD0035,2026-09-01,Cancelled,1025,Deepak Verma,deepak.verma25@example.com,Kochi,PR011,Notebook Set,Stationery,2.0,1980.78,12291.16
+ORD0036,not known,Cancelled,1098,Karthik Rao,karthik.rao98@example.com,Delhi,PR031,Notebook Set Model 2,Stationery,4.0,,11287.14
+ORD0037,2026-06-29,Cancelled,1003,Deepak Patel,deepak.patel3@example.com,Chennai,PR012,Monitor,Electronics,3.0,538.43,17340.91
+ORD0038,2026-07-18,Cancelled,1040,Nisha Bose,nisha.bose40@example.com,Hyderabad,PR085,USB-C Cable Model 5,Accessories,5.0,4698.97,13903.8
+ORD0039,2026-07-13,Pending,1045,Asha Pillai,asha.pillai45@example.com,Mumbai,PR055,Phone Case Model 3,Accessories,5.0,1023.53,17615.95
+ORD0040,2026-06-30,Delivered,9999,,,,PR040,Travel Mug Model 2,Lifestyle,3.0,3107.36,18073.92
+ORD0041,2026-09-06,Shipped,1041,Manoj Gupta,manoj.gupta41@example.com,Pune,PR016,Table Fan,Home,5.0,6898.89,4909.79
+ORD0042,2026-09-01,Pending,1095,Karthik Shankar,karthik.shankar95@example.com,KOLKATA,PR062,Keyboard Model 4,Electronics,0.0,,24515.69
+ORD0043,2026-07-17,Shipped,1025,Deepak Verma,deepak.verma25@example.com,Kochi,PR038,Study Table Model 2,Furniture,2.0,4119.14,7661.35
+ORD0044,2026-07-06,,1091,  Arun Menon ,arun.menon91@example.com,Pune,PR069,Water Bottle Model 4,Lifestyle,2.0,3900.39,24361.23
+ORD0045,2026-08-21, cancelled ,1071,Sara Rao,sara.rao71@example.com,Mumbai,PR038,Study Table Model 2,Furniture,2.0,4119.14,2699.3
+ORD0046,2026-07-31,Cancelled,1002,Nila Nair,nila.nair2@example.com,Bengaluru,PR074,Mouse Model 4,Electronics,3.0,8617.36,11095.65
+ORD0047,2026-09-29,Cancelled,1024,Priya Joseph,priya.joseph24@example.com,Delhi,PR007,Desk Lamp,Home,3.0,4419.3,2985.07
+ORD0049,2026-07-02,Delivered,1073,Rahul Das,rahul.das73@example.com,Chennai,PR039,Pen Set Model 2,Stationery,1.0,8352.88,14018.11
+ORD0050,2026-09-10,Shipped,1054,Arun Joseph,arun.joseph54@example.com,Mumbai,PR078,Study Table Model 4,Furniture,5.0,8059.69,N/A
+ORD0051,2026-07-09,Cancelled,1049,Sara Bose,sara.bose49@example.com,Hyderabad,PR058,Study Table Model 3,Furniture,4.0,not available,7738.7
+ORD0052,2026-09-03,Delivered,1080,Arun Bose,arun.bose80@example.com,Hyderabad,PR008,Laptop Stand,Accessories,5.0,9842.93,23697.62
+ORD0053,2026-07-04,Delivered,1027,Ravi Prakash,ravi.prakash27@example.com,Hyderabad,PR081,Wireless Headphones Model 5,Electronics,2.0,5617.32,4052.87
+ORD0054,not known,Delivered,1023,Karthik Reddy,,Hyderabad,PR071,Notebook Set Model 4,Stationery,-2.0,1559.96,10301.66
+ORD0055,2026-07-08,Delivered,1089,Priya Shankar,priya.shankar89@example.com,Delhi,PR077,Power Bank Model 4,Electronics,4.0,2265.53,5902.18
+ORD0056,2026-06-10,Shipped,1091,  Arun Menon ,arun.menon91@example.com,Pune,PR037,Power Bank Model 2,Electronics,4.0,5733.14,23109.19
+ORD0057,2026-07-25,Delivered,1081,Divya Gupta,divya.gupta81@example.com,Mumbai,PR076,Table Fan Model 4,Home,2.0,7805.36,13682.38
+ORD0058,2026-09-14,Shipped,1083,Ravi Das,ravi.das83@example.com,Pune,PR020,Travel Mug,Lifestyle,3.0,4368.84,1924.53
+ORD0059,2026-09-04,Pending,1022,Deepak Rao,DEEPAK.RAO22@EXAMPLE.COM ,Mumbai,PR040,Travel Mug Model 2,Lifestyle,5.0,3107.36,11062.96
+ORD0060,2026-08-29, cancelled ,9999,,,,PR089,Water Bottle Model 5,Lifestyle,3.0,7575.98,23575.5
+ORD0061,2026-07-27,Delivered,1065,  Ravi Shankar ,ravi.shankar65@example.com,Kolkata,PR070,Bluetooth Speaker Model 4, electronics ,4.0,4055.56,15011.21
+ORD0062,2026-08-17,Pending,1056,Kavin Iyer,kavin.iyer56@example.com,Kolkata,PR095,Phone Case Model 5,Accessories,3.0,4513.54,792.74
+ORD0063,2026-08-15,Delivered,1030,Vikram Bose,vikram.bose30@example.com,Chennai,PR087,Desk Lamp Model 5,Home,0.0,not available,24989.37
+ORD0064,2026-06-06,Shipped,1087,Priya Bose,priya.bose87@example.com,Chennai,PR035,Phone Case Model 2,Accessories,,7505.53,-500
+ORD0065,2026-06-24,Cancelled,1084,Ravi Kumar,ravi.kumar84@example.com,Kochi,PR057,Power Bank Model 3,Electronics,3.0,2424.2,15924.4
+ORD0066,2026-07-15,,1063,Priya Ali,priya.ali63@example.com,Delhi,PR012,Monitor,Electronics,4.0,538.43,8432.71
+ORD0067,2026-07-13,Cancelled,1086,Isha Kumar,isha.kumar86@example.com,Bengaluru,PR014,Mouse, electronics ,2.0,5246.21,17387.79
+ORD0068,2026-09-13,Delivered,1037,Divya Joseph,divya.joseph37@example.com,Chennai,PR085,USB-C Cable Model 5,Accessories,4.0,4698.97,11452.42
+ORD0069,2026-06-15,Cancelled,1041,Manoj Gupta,manoj.gupta41@example.com,Pune,PR033,Backpack Model 2,Lifestyle,3.0,6681.8,21643.03
+ORD0070,2026-07-30,Cancelled,1001,Arun Kumar,arun.kumar1@example.com,Delhi,PR085,USB-C Cable Model 5,Accessories,5.0,4698.97,1496.97
+ORD0071,2026-09-05,Cancelled,1067,Meena Raj,meena.raj67@example.com,Bengaluru,PR047,Desk Lamp Model 3,Home,5.0,5159.62,15691.41
+ORD0073,2026-06-16,Delivered,1057,Meena Reddy,meena.reddy57@example.com,BENGALURU,PR090,Bluetooth Speaker Model 5,Electronics,4.0,4480.48,24332.7
+ORD0074,2026-07-10,Delivered,1078,  Pooja Kapoor ,pooja.kapoor78@example.com,Chennai,PR031,Notebook Set Model 2,Stationery,2.0,,13873.45
+ORD0075,2026-07-30, delivered ,1012,Meena Bose,meena.bose12@example.com,Delhi,PR029,Water Bottle Model 2,Lifestyle,1.0,not available,N/A
+ORD0076,2026-08-05,Pending,1020,Ravi Joseph,ravi.joseph20@example.com,Chennai,PR064,Office Chair Model 4,Furniture,3.0,7707.04,10474.94
+ORD0077,2026-07-29,Shipped,1062,Omar Shah,omar.shah62@example.com,Pune,PR061,Wireless Headphones Model 4,Electronics,2.0,556.52,9682.11
+ORD0078,2026-09-19,Delivered,1077,Divya Raj,DIVYA.RAJ77@EXAMPLE.COM ,Kolkata,PR066,Webcam Model 4,Electronics,2.0,8871.76,7014.75
+ORD0079,2026-07-05,Delivered,1054,Arun Joseph,arun.joseph54@example.com,Mumbai,PR044,Office Chair Model 3,Furniture,5.0,3289.27,7178.55
+ORD0080,2026-08-24,Cancelled,9999,,,,PR076,Table Fan Model 4,Home,,7805.36,21651.73
+ORD0081,2026-07-15,Pending,1058,Isha Kumar,isha.kumar58@example.com,Bengaluru,PR069,Water Bottle Model 4,Lifestyle,-2.0,3900.39,13865.15
+ORD0082,2026-09-28,Pending,1070,Sana Pillai,sana.pillai70@example.com,Kochi,PR049,Water Bottle Model 3,Lifestyle,4.0,9601.34,21759.6
+ORD0083,2026-07-20,Shipped,1090,Ravi Menon,ravi.menon90@example.com,Mumbai,PR031,Notebook Set Model 2,Stationery,5.0,,21421.92
+ORD0084,2026-09-04,Cancelled,1053,Arun Shankar,arun.shankar53@example.com,Pune,PR006,Webcam,Electronics,0.0,7884.64,17674.91
+ORD0085,2026-08-03,Delivered,1049,Sara Bose,sara.bose49@example.com,Hyderabad,PR050,Bluetooth Speaker Model 3,Electronics,2.0,7385.02,3287.22
+ORD0086,2026-09-20,Cancelled,1076,Ananya Das,ananya.das76@example.com,MUMBAI,PR043,Smart Watch Model 3,Electronics,1.0,6104.95,2627.84
+ORD0087,2026-07-23,Shipped,1059,Kavin Patel,kavin.patel59@example.com,Kolkata,PR002,Keyboard,Electronics,2.0,9836.15,2009.48
+ORD0088,2026-08-28,,1034,Arun Shah,arun.shah34@example.com,,PR044,Office Chair Model 3,Furniture,5.0,3289.27,16298.44
+ORD0089,2026-07-19,Pending,1043,Ananya Reddy,ananya.reddy43@example.com,Kolkata,PR087,Desk Lamp Model 5,Home,5.0,not available,15725.96
+ORD0090,not known, delivered ,1098,Karthik Rao,karthik.rao98@example.com,Delhi,PR063,Smart Watch Model 4,Electronics,5.0,6150.61,5984.04
+ORD0091,2026-09-04,Delivered,1088,Deepak Bose,DEEPAK.BOSE88@EXAMPLE.COM ,Hyderabad,PR037,Power Bank Model 2,Electronics,2.0,5733.14,10934.19
+ORD0092,2026-07-27,Shipped,1013,  Deepak Ali ,deepak.ali13@example.com,Bengaluru,PR098,Study Table Model 5, furniture ,1.0,4554.69,17395.93
+ORD0093,2026-09-10,Delivered,1004,Meena Ali,meena.ali4@example.com,Mumbai,PR006,Webcam,Electronics,3.0,7884.64,7440.19
+ORD0094,2026-07-02,Cancelled,1048,Manoj Joseph,manoj.joseph48@example.com,Delhi,PR056,Table Fan Model 3, home ,2.0,9523.8,14213.31
+ORD0095,2026-06-11,Cancelled,1024,Priya Joseph,priya.joseph24@example.com,Delhi,PR022,Keyboard Model 2,Electronics,2.0,9214.63,15549.8
+ORD0097,2026-08-25,Delivered,1033,Asha Iyer,ASHA.IYER33@EXAMPLE.COM ,Hyderabad,PR059,Pen Set Model 3,Stationery,3.0,8083.97,22487.88
+ORD0098,2026-06-21,Delivered,1060,Sara Verma,sara.verma60@example.com,Chennai,PR037,Power Bank Model 2,Electronics,5.0,5733.14,11126.99
+ORD0099,2026-08-21,Cancelled,1045,Asha Pillai,asha.pillai45@example.com,Mumbai,PR076,Table Fan Model 4,Home,3.0,7805.36,17304.29
+ORD0100,2026-07-20,Cancelled,9999,,,,PR039,Pen Set Model 2,Stationery,2.0,8352.88,N/A
